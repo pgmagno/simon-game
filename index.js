@@ -110,7 +110,7 @@ var gameObj = {
 
 
 
-$("h1 .begin").on("click", gameStart);
+$("body").on("click", gameStart);
 
 $("div .btn").on("click", function () {
 
