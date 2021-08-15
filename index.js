@@ -110,7 +110,7 @@ var gameObj = {
 
 
 
-$(body).on("click", gameStart);
+$(document).on("keypress", gameStart);
 
 $("div .btn").on("click", function () {
 
