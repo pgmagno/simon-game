@@ -27,8 +27,10 @@ h2 {
     font-family: 'Press Start 2P', cursive;
     background-color: white;
     color: black;
-    margin: 25px;
-    display: inline-block;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     height: 70px;
     width: 125px;
     border: 10px solid black;
