@@ -69,3 +69,10 @@ h2 {
     box-shadow: 0 0 20px white;
     background-color: grey;
 }
+
+.footer, a {
+    font-family: 'Press Start 2P', cursive;
+    margin: 40px 0 15px;
+    text-align: center;
+    color: white;    
+}
