@@ -71,6 +71,7 @@ h2 {
 }
 
 .footer, a {
+    line-height: 25px;
     font-family: 'Press Start 2P', cursive;
     margin: 40px 0 15px;
     text-align: center;
