@@ -94,7 +94,7 @@ function gameChecker (playerButton) {
 
     } else {
         graphSoundPlayer(4);
-        $("h1").text("Game Over, press any key to restart");
+        $("h1").text("Game Over! Tap START to try again.");
     }
 
 };
